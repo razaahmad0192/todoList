@@ -25,7 +25,7 @@ function Home() {
           <motion.button
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            className="bg-yellow-400 text-black font-bold px-8 py-3 rounded-2xl shadow-lg hover:bg-yellow-300 transition-all"
+            className="bg-yellow-400 text-black font-bold px-8 py-3 cursor-pointer rounded-2xl shadow-lg hover:bg-yellow-300 transition-all"
           >
             Get Started 🚀
           </motion.button>
