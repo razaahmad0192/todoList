@@ -1,2 +1,30 @@
-# todoList
-A simple React Todo App with local storage support. Users can add, edit, delete, and mark tasks as completed. Tasks persist even after page reload. Includes toggle to show/hide finished todos and edit button with icon support.
+# 📝 React Todo App with Local Notifications
+
+A simple **React-based Todo App** where you can:  
+- Add, edit, delete, and mark tasks as completed ✅  
+- Store todos in **localStorage** (data saved even after refresh) 💾  
+- Toggle visibility of completed tasks 👀  
+
+---
+
+## 🚀 Features
+- Add and manage todos with ease  
+- Persistent storage using **localStorage**  
+- Mark todos as **completed** or **unfinished**  
+- Filter to **show/hide finished tasks**  
+- **Edit & Delete** functionality  
+- **Local notification alarm** for tasks at specific time  
+- Responsive and styled with **Tailwind CSS**  
+
+---
+
+## 🛠️ Tech Stack
+- **React** (with Hooks)  
+- **Tailwind CSS** (for UI)  
+- **localStorage** (for persistence)  
+- **Notifications API** (for alarms)  
+- **React Icons** (for icons)  
+
+
+
+
