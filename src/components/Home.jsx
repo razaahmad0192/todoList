@@ -5,7 +5,7 @@ import { CheckCircle } from "lucide-react";
 
 function Home() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-violet-500 via-purple-600 to-indigo-700 text-white px-6">
+    <div className="flex flex-col pt-9 md:pt-0 items-center justify-center min-h-screen bg-gradient-to-br from-violet-500 via-purple-600 to-indigo-700 text-white px-6">
       {/* Hero Section */}
       <motion.div
         initial={{ opacity: 0, y: -50 }}

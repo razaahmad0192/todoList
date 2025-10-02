@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom'
 
 const Navbar = () => {
   return (
-    <nav className='flex items-center justify-between bg-indigo-900 p-0 shadow-md text-white py-2'>
+    <nav className='flex items-center justify-between bg-indigo-900 p-0 shadow-md text-white py-2 '>
       <div className="logo ">
         <span className="fontbold text-xl md:text-2xl ml-9 flex justify-start">
           iTask
