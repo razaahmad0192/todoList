@@ -13,7 +13,6 @@ A simple **React-based Todo App** where you can:
 - Mark todos as **completed** or **unfinished**  
 - Filter to **show/hide finished tasks**  
 - **Edit & Delete** functionality  
-- **Local notification alarm** for tasks at specific time  
 - Responsive and styled with **Tailwind CSS**  
 
 ---
@@ -22,7 +21,6 @@ A simple **React-based Todo App** where you can:
 - **React** (with Hooks)  
 - **Tailwind CSS** (for UI)  
 - **localStorage** (for persistence)  
-- **Notifications API** (for alarms)  
 - **React Icons** (for icons)  
 
 
